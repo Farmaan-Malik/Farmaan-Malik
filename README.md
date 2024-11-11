@@ -16,4 +16,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farmaan-malik&show_icons=true&locale=en" alt="farmaan-malik" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farmaan-malik&" alt="farmaan-malik" /></p>
