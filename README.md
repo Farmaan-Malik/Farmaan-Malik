@@ -5,6 +5,7 @@
 <img align="center" width=1000 src="https://imgur.com/d6KDago.gif" />
 
 <h2 align="center">A passionate Software developer from India</h2>
+
 - 🌱 I’m currently learning **ReactNative, nodeJs, Kotlin and Go.**
 - 📫 How to reach me **farmaanmalik6348@gmail.com**
 <h3 align="left">Connect with me:</h3>
