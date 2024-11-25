@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Farmaan Malik</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
+<img align="center" src = "https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"/>
+
 - 🌱 I’m currently learning **ReactNative, nodeJs, Kotlin and Go.**
 - 📫 How to reach me **farmaanmalik6348@gmail.com**
 
