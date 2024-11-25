@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Farmaan Malik</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<img align="center" src = "https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"/>
+<img align="center" width=1000 src = "https://private-user-images.githubusercontent.com/74038190/240877480-5f6597b4-ff7c-4415-9272-d95759df842f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzI1MzYyODAsIm5iZiI6MTczMjUzNTk4MCwicGF0aCI6Ii83NDAzODE5MC8yNDA4Nzc0ODAtNWY2NTk3YjQtZmY3Yy00NDE1LTkyNzItZDk1NzU5ZGY4NDJmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTI1VDExNTk0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTcyNjFkYjMzZDM0OWM3ZmRmYzE1ODg4ZDFiNjYyOTkxZjFlZmIxNjI2M2FhMGJmNjg2M2E2ZDY0ODE2NDVmZWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.N9n2LH77kWYJubbGKxXWkFDZF3KHrGH1xlhmqzz_oX4"/>
 
 - 🌱 I’m currently learning **ReactNative, nodeJs, Kotlin and Go.**
 - 📫 How to reach me **farmaanmalik6348@gmail.com**
