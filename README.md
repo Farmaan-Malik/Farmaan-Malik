@@ -20,6 +20,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=farmaan-malik&show_icons=true&locale=en&layout=compact" alt="farmaan-malik" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Farmaan-Malik)](https://git.io/streak-stats)
-
 </Div>
